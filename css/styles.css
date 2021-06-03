@@ -1,0 +1,12 @@
+#select-sm{
+  display: none;
+}
+#select-up{
+  display: none;
+}
+#select-ud{
+  display: none;
+}
+body{
+  background-color: bisque;
+}
